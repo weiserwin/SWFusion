@@ -1,0 +1,49 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Nat5 {
+  width : 400px;
+  height: 400px;
+}
+
+.Nat5Header img {
+  margin-left : 10px;
+}
+
+.Nat5Header {
+  width: 400px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.Nat4 {
+  float: left;
+  margin-left: 20px;
+}
+
+.Nat4 img {
+  width: 75px;
+}
+
+.Nat4 input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Nat3 {
+  width: 50px !important;
+}
+
+.grayed {
+  -webkit-filter: grayscale(100%);
+   -moz-filter: grayscale(100%);
+     -o-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+        filter: grayscale(100%);
+}
